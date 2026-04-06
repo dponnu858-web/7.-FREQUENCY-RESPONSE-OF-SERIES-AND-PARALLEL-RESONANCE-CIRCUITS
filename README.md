@@ -7,7 +7,7 @@ To study the behavior of series and parallel RLC circuits at resonance and to de
 
 **APPARATUS REQUIRED:**
 
-<img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/2716f700-2960-4ba2-9e8f-7fa1cebda461" />
+<img width="424" height="308" alt="image" src="https://github.com/user-attachments/assets/375c2d2a-fac6-47dc-9e7d-1d7b7bf17284" />
 
 
 **THEORY:**
@@ -25,19 +25,22 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="439" height="175" alt="image" src="https://github.com/user-attachments/assets/18f3a96f-ebfe-45de-9a65-333d121aec77" />
+
 
 
 
 **Model graph:**
 
-
-
+<img width="346" height="339" alt="image" src="https://github.com/user-attachments/assets/87724272-5891-4d87-a9f6-ab457bce4e58" />
 
 **TABULATION:**
 
+<img width="436" height="210" alt="image" src="https://github.com/user-attachments/assets/487b4e5f-9e71-4d4a-957b-5d646e85c33c" />
 
 **Calculation:**
 
+<img width="420" height="735" alt="image" src="https://github.com/user-attachments/assets/68fe6356-7cf6-4939-8156-c4730e4bd9dc" />
 
 
 
@@ -52,7 +55,11 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
-**Mark split up:**
+**OUTPUT:**
+
+<img width="419" height="312" alt="image" src="https://github.com/user-attachments/assets/81694b0d-8044-4823-8cdb-76942705e70e" />
+
+
 
 **RESULT:**
 
